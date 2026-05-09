@@ -32,11 +32,11 @@ The entire hardware structure was manually assembled including servo mounting, b
 
 ## Front View
 
-![Robot Front](images/quadruped_front.jpg)
+![Robot Front](images/front_view.png)
 
-## Walking Pose
+## Stand Pose
 
-![Walking Pose](images/walking_pose.jpg)
+![Walking Pose](images/top_side_view.png)
 
 ---
 
