@@ -63,20 +63,32 @@ Unlike software-only robotics simulations, the entire hardware structure of this
 ![Blueprint](images/blueprint.jpg)
 
 ---
-
 # Folder Structure
 
-
+```bash
 Defense-Quadruped-Robot/
 │
 ├── arduino_code/
-├── images/
+│   └── quadruped_robot.ino
+│
 ├── docs/
-├── circuit_diagram/
+│
+├── images/
+│   ├── back_leg_top.jpeg
+│   ├── blueprint.jpg
+│   ├── bone.png
+│   ├── dissemble_legs.png
+│   ├── front_leg.jpeg
+│   ├── front_view.png
+│   ├── on_knees.png
+│   ├── side_view.jpeg
+│   ├── skeleton.png
+│   └── top_side_view.png
+│
 ├── videos/
+│
 └── README.md
-
-
+```
 ---
 
 # Research Inspiration
