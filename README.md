@@ -66,7 +66,7 @@ Unlike software-only robotics simulations, the entire hardware structure of this
 
 # Folder Structure
 
-```bash
+
 Defense-Quadruped-Robot/
 │
 ├── arduino_code/
