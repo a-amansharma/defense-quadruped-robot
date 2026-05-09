@@ -48,20 +48,19 @@ Unlike software-only robotics simulations, the entire hardware structure of this
 
 ## Front View
 
-![Robot Front](images/front_view.png)
+<img src="images/front_view.png" width="350">
 
 ---
 
 ## Stand Pose
 
-![Stand Pose](images/top_side_view.png)
+<img src="images/top_side_view.png" width="350">
 
 ---
 
 ## Future Vision Blueprint
 
-![Blueprint](images/blueprint.jpg)
-
+<img src="images/blueprint.jpg" width="350">
 ---
 
 # Folder Structure
